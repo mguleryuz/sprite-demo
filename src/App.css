@@ -1,0 +1,7 @@
+.sprite {
+  width: 720px;
+  height: 720px;
+  background-image: url("/bunny.png"); /* Path to the sprite image */
+  background-repeat: no-repeat;
+  scale: 0.9;
+}
